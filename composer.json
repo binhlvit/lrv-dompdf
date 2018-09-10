@@ -5,9 +5,9 @@
     "keywords": ["laravel", "dompdf", "pdf"],
     "authors": [
         {
-            "name": "",
-            "email": ""
-        }
+      "name": "author's name",
+      "email": "email@example.com"
+    }
     ],
     "require": {
         "php": ">=7",
